@@ -1,0 +1,37 @@
+input {
+  padding: 10px 6px;
+  font-size: 16px;
+  margin: 14px 0px;
+  width: 97%;
+}
+.heading {
+  margin-top: 0px;
+}
+.outerContainer {
+  display: flex;
+  width: 35%;
+  margin: auto;
+  height: 400px;
+  align-items: center;
+  background-color: white;
+  justify-content: center;
+}
+.conatainer {
+  width: 70%;
+}
+.label {
+  text-align: left;
+  margin-bottom: 0px;
+  font-weight: 500;
+  margin-top: 3px;
+}
+a > button {
+  width: 101%;
+  padding: 14px 10px;
+  margin-top: 14px;
+  background: #0940b5;
+  color: white;
+  border: 0px;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
